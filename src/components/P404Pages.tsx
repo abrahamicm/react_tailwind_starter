@@ -1,3 +1,4 @@
+import React from "react";
 export default function P404Pages() {
     return (
       <>

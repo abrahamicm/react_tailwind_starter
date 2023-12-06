@@ -1,3 +1,4 @@
+import React from "react";
 const links = [
     { name: 'Open roles', href: '#' },
     { name: 'Internship program', href: '#' },

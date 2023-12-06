@@ -1,3 +1,4 @@
+import React from "react";
 const features = [
     { name: 'Origin', description: 'Designed by Good Goods, Inc.' },
     { name: 'Material', description: 'Solid walnut base with rare earth magnets and powder coated steel card cover' },

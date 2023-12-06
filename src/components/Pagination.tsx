@@ -1,3 +1,4 @@
+import React from "react";
 import { ChevronLeftIcon, ChevronRightIcon } from '@heroicons/react/20/solid'
 
 const items = [

@@ -1,3 +1,4 @@
+import React from "react";
 export default function LogoClouds() {
     return (
       <div className="bg-white py-24 sm:py-32">

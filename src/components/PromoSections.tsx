@@ -1,3 +1,4 @@
+import React from "react";
 export default function PromoSections() {
     return (
       <div className="relative overflow-hidden bg-white">
